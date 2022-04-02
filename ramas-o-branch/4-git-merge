@@ -1,0 +1,3 @@
+Nos permite aplicar un cambio en la rama principal (main).
+
+git merge + nombre de la rama donde se quiere traer el cambio.
